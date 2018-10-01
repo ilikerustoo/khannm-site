@@ -1,5 +1,5 @@
 
-baseurl = "http://www.example.com"
+baseurl = "https://khannm.netlify.com"
 title = "johndoe"
 theme = "coder"
 languagecode = "en"
@@ -16,12 +16,12 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Mohammad"
+    description = "Mohammad Khan's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Developer and Keyboard Enthusiast"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    footercontent = "Favourite Quote:"
 
     dateformat = "January 2, 2006"
 
@@ -37,27 +37,27 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://github.com/ilikerustoo/"
+# [[params.social]]
+#     name = "Gitlab"
+#     icon = "fab fa-gitlab"
+#     weight = 2
+#     url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter"
+#     weight = 3
+#     url = "https://twitter.com/johndoe/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://www.linkedin.com/in/khannm/"
+# [[params.social]]
+#     name = "Medium"
+#     icon = "fab fa-medium"
+#     weight = 5
+#     url = "https://medium.com/@johndoe"
 
 [[menu.main]]
     name = "Blog"
@@ -79,13 +79,13 @@ disqusShortname = "yourdiscussshortname"
 [languages]
     [languages.en]
         languagename = "English" # The language name to be displayed in the selector.
-        title = "John Doe"
+        title = "Mohammad Khan"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-        author = "John Doe"
-        info = "Full Stack DevOps and Magician"
-        description = "John Doe's personal website"
+        author = "Mohammad Khan"
+        info = "Developer and Keyboard Enthusiast"
+        description = "Mohammad Khan's personal website"
         keywords = "blog,developer,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
