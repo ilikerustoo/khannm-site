@@ -20,8 +20,8 @@ Follow my work at [GitHub](https://github.com/ilikerustoo).
 Some fun facts about Me:
 
 * I play video games like [League of Legends] (https://na.leagueoflegends.com/en/)
-* I collect and assemble [mechanical keyboards]
-<!-- 
+* I collect and assemble [mechanical keyboards] (https://www.reddit.com/r/mechanicalkeyboards)
+<!--
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13). -->
 
 Thanks for reading!
