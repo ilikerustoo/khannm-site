@@ -1,29 +1,27 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+I am currently in Allegheny College studying Computer Science and Economics
 
 
-It makes use of a variety of open source projects including:
+I have experience in:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+* [Python](https://www.python.org/)
+* [C](https://en.wikipedia.org/wiki/C_(programming_language))
+* [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Follow my work at [GitHub](https://github.com/ilikerustoo).
 
 ## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
+Some fun facts about Me:
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+* I play video games like [League of Legends] (https://na.leagueoflegends.com/en/)
+* I collect and assemble [mechanical keyboards]
+<!-- 
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13). -->
 
 Thanks for reading!
