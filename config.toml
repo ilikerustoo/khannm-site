@@ -1,6 +1,6 @@
 
 baseurl = "https://khannm.netlify.com"
-title = "johndoe"
+title = "Mohammad Khan"
 theme = "coder"
 languagecode = "en"
 
@@ -16,12 +16,12 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Mohammad"
+    author = "Mohammad Khan"
     description = "Mohammad Khan's personal website"
     keywords = "blog,developer,personal"
     info = "Developer and Keyboard Enthusiast"
     avatarurl = "images/me.jpg"
-    footercontent = "Favourite Quote:"
+    footercontent = "Favourite Quote:\"It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.\" - Craig Bruce"
 
     dateformat = "January 2, 2006"
 
@@ -72,9 +72,14 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
     url = "/projects/"
 [[menu.main]]
+    name = "Resume"
+    weight = 4
+    url = "/resume.files/resume.pdf"
+[[menu.main]]
     name = "Contact me"
     weight = 5
     url = "/contact/"
+
 
 [languages]
     [languages.en]
@@ -105,38 +110,42 @@ disqusShortname = "yourdiscussshortname"
         weight = 3
         url = "/projects/"
         [[languages.en.menu.main]]
+        name = "Resume"
+        weight = 4
+        url = "/resume.files/resume.pdf"
+        [[languages.en.menu.main]]
         name = "Contact me"
         weight = 5
         url = "/contact/"
 
 
-    [languages.pl]
-        languagename = "Polski"
-        title = "John Doe po polsku"
-
-        [languages.pl.params]
-            author = "John Doe"
-            description = "Strona domowa John'a Doe"
-            keywords = "blog,developer,strona domowa"
-            info = "Full Stack DevOps i Magik"
-
-        [languages.pl.menu]
-
-            [[languages.pl.menu.main]]
-            name = "O mnie"
-            weight = 1.0
-            url = "/pl/about/"
-
-            [[languages.pl.menu.main]]
-            name = "Blog"
-            weight = 2.0
-            url = "/pl/posts/"
-
-            [[languages.pl.menu.main]]
-            name = "projektowanie"
-            weight = 3
-            url = "/projektowanie/"
-            [[languages.pl.menu.main]]
-            name = "kontakt"
-            weight = 5
-            url = "/kontakt/"
+    # [languages.pl]
+    #     languagename = "Polski"
+    #     title = "John Doe po polsku"
+    #
+    #     [languages.pl.params]
+    #         author = "John Doe"
+    #         description = "Strona domowa John'a Doe"
+    #         keywords = "blog,developer,strona domowa"
+    #         info = "Full Stack DevOps i Magik"
+    #
+    #     [languages.pl.menu]
+    #
+    #         [[languages.pl.menu.main]]
+    #         name = "O mnie"
+    #         weight = 1.0
+    #         url = "/pl/about/"
+    #
+    #         [[languages.pl.menu.main]]
+    #         name = "Blog"
+    #         weight = 2.0
+    #         url = "/pl/posts/"
+    #
+    #         [[languages.pl.menu.main]]
+    #         name = "projektowanie"
+    #         weight = 3
+    #         url = "/projektowanie/"
+    #         [[languages.pl.menu.main]]
+    #         name = "kontakt"
+    #         weight = 5
+    #         url = "/kontakt/"
