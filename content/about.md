@@ -19,7 +19,7 @@ I have experience in:
 
 Follow my work at [GitHub](https://github.com/ilikerustoo).
 
-## Setup
+## Fun Factos
 
 Some fun facts about Me:
 

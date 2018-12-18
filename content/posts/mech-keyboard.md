@@ -1,5 +1,5 @@
 +++
-date = "2018-10-03"
+date = "2018-12-01"
 title = "Mechanical Keyboards"
 math = "true"
 
@@ -8,6 +8,9 @@ math = "true"
 My Obsession with Mechanical keyboards
 
 ![Differernt types](/images/keyboards.jpg)
+
+There are all kinds of cool keyboards. White ones, black ones, funky-looking ones. But the magic behind mechanical keyboards is in the _feel_.
+
 
 
 
