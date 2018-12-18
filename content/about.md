@@ -3,7 +3,11 @@ title = "About Me"
 slug = "about"
 +++
 
-I am currently in Allegheny College studying Computer Science and Economics
+I was born and raised in Pakistan which is where I have most of my working and interning experience - from Transparency International (law firm) to several banks such as UBL or Monet in mobile banking. However, coming to the US and studying at Allegheny College has equipped me with the tools to take up computer science internships that were not available to me in Pakistan.
+
+I am proficient with Java, Python, C and over the years I have worked with more languages that include: , R, Go, Javascript, and MIPS. I have a keen interest in big data and artificial intelligence and look forward to any opportunities that can provide more experiences.
+
+Additionally, my natural curiosity with computers has made me knowledgeable about computer hardware - from building PCs to managing and learning about networks. My passion for hardware led me and colleague to create a 3D printed arm that mimics ones movements using a leap motion.
 
 
 I have experience in:

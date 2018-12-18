@@ -1,13 +1,17 @@
 +++
 date = "2018-10-03"
-title = "My First Post"
+title = "Mechanical Keyboards"
 math = "true"
 
 +++
 
-## Style Demo
+My Obsession with Mechanical keyboards
 
-# h1 Heading
+![Differernt types](/images/keyboards.jpg)
+
+
+
+<!-- # h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -71,4 +75,4 @@ var foo = function (bar) {
 };
 
 console.log(foo(5));
-```
+``` -->

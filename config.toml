@@ -51,20 +51,26 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 4
+    weight = 2
     url = "https://www.linkedin.com/in/khannm1/"
 # [[params.social]]
 #     name = "Medium"
 #     icon = "fab fa-medium"
 #     weight = 5
 #     url = "https://medium.com/@johndoe"
+[[params.social]]
+    name = "Stack Overflow"
+    icon = "fab fa-stack-overflow"
+    weight = 3
+    url = "https://stackoverflow.com/users/10490331/mohammad-khan?tab=profile"
+
 
 [[menu.main]]
     name = "Blog"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     weight = 2
     url = "/about/"
 [[menu.main]]
@@ -96,7 +102,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu] # It is possible to change the menu too.
 
         [[languages.en.menu.main]]
-        name = "About"
+        name = "About Me"
         weight = 1.0
         url = "/about/"
 
