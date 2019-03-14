@@ -1,19 +1,23 @@
 +++
 date = "2019-14-03"
-title = "Gator Grouper"
+title = "Gator Grouper - checking for python docstrings"
 math = "true"
 
 +++
 
-My Work in GatorGrader
 
 ![Checklist](/images/gatorgrader.png)
 
+## What is GatorGrader?
+
 GatorGrouper is a tool that most students in the Computer Science department use to check their work is up to par to make sure their work is of the highest quality. This is an incredibly useful tool as it forces you to practice good coding habits and in turn leads to you no only improving your grade, but also improving as a programmer. As can be seen above, Gator Grouper works with GitHub and Gradle (and more) and contains a checklist of requirements that must be completed in order to pass which is also checked in TravisCI. For more details check out the `GatorGrader` [GitHub](https://github.com/GatorEducator/gatorgrader)
 
+## The Initial State
 
-As `GatorGrader` is still under development and is maintained by students of Allegheny College, the check for multi-line `python` comments did not exist and was not a priority although useful. `GatorGrader` would only check for single line `python` and `java` comments but only multi-line `java` comments since the use of `/* */` in `Java` made any comment multi-line even if the actual contents did not contain multiple lines and this made checking easy since `Java` contains this syntax to indicate a multi-line comment whereas `python` does not. However, in `python`, a `docsring` is seen as the closest equivalent to a multi-line comment. Therefore the the task was to check for a content of multiple lines between a
+As `GatorGrader` is still under development and is maintained by students of Allegheny College, the check for multi-line `python` comments did not exist and was not a priority although useful. `GatorGrader` would only check for single line `python` and `java` comments but only multi-line `java` comments since the use of `/* */` in `Java` made any comment multi-line even if the actual contents did not contain multiple lines and this made checking easy since `Java` contains this syntax to indicate a multi-line comment whereas `python` does not. However, in `python`, a `docsring` is seen as the closest equivalent to a multi-line comment. Therefore the task was to check for a content of multiple lines between a
 pair of `""" """`
+
+## The Problem and Solution
 
 Initially our team was provided code by another colleague who take a quick look at the issue and the code worked by parsing through the `python` AST and utilized the `python` parser. This code seemed complex and did not work if the file that is put into the function has syntax errors and will throw an exception. Instead I proposed we use a regular expression which was how comments are already checked in `GatorGrader` and doing
 this would follow a similar interesting implementation.
