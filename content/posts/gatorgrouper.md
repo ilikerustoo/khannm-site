@@ -1,9 +1,9 @@
----
-date: 2019-14-03
-title: Gator Grouper - checking for python docstrings
-math: true
++++
+date = "2019-14-03"
+title = "Gator Grouper - checking for python docstrings"
+math = "true"
 
----
++++
 
 
 ![Checklist](/images/gatorgrader.png)
