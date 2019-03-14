@@ -5,9 +5,9 @@ math = "true"
 
 +++
 
-My Work in GatorGrouper
+My Work in GatorGrader
 
-![Differernt types](/images/gatorgrouper.jpg)
+![Differernt types](/images/gatorgrader.jpg)
 
 GatorGrouper is a tool that most students in the Computer Science department use to check their work is up to par to make sure their work is of the highest quality. This is an incredibly useful tool as it forces you to practice good coding habits and in turn leads to you no only improving your grade, but also improving as a programmer. As can be seen above, Gator Grouper works with GitHub and Gradle (and more) and contains a checklist of requirements that must be completed in order to pass which is also checked in TravisCI.
 
