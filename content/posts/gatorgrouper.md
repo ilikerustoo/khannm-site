@@ -7,9 +7,26 @@ math = "true"
 
 My Work in GatorGrader
 
-![Differernt types](/images/gatorgrader.jpg)
+![Checklist](/images/gatorgrader.png)
 
-GatorGrouper is a tool that most students in the Computer Science department use to check their work is up to par to make sure their work is of the highest quality. This is an incredibly useful tool as it forces you to practice good coding habits and in turn leads to you no only improving your grade, but also improving as a programmer. As can be seen above, Gator Grouper works with GitHub and Gradle (and more) and contains a checklist of requirements that must be completed in order to pass which is also checked in TravisCI.
+GatorGrouper is a tool that most students in the Computer Science department use to check their work is up to par to make sure their work is of the highest quality. This is an incredibly useful tool as it forces you to practice good coding habits and in turn leads to you no only improving your grade, but also improving as a programmer. As can be seen above, Gator Grouper works with GitHub and Gradle (and more) and contains a checklist of requirements that must be completed in order to pass which is also checked in TravisCI. For more details check out the `GatorGrader` [GitHub](https://github.com/GatorEducator/gatorgrader)
+
+
+As `GatorGrader` is still under development and is maintained by students of Allegheny College, the check for multi-line `python` comments did not exist and was not a priority although useful. `GatorGrader` would only check for single line `python` and `java` comments but only multi-line `java` comments since the use of `/* */` in `Java` made any comment multi-line even if the actual contents did not contain multiple lines and this made checking easy since `Java` contains this syntax to indicate a multi-line comment whereas `python` does not. However, in `python`, a `docsring` is seen as the closest equivalent to a multi-line comment. Therefore the the task was to check for a content of multiple lines between a
+pair of `""" """`
+
+Initially our team was provided code by another colleague who take a quick look at the issue and the code worked by parsing through the `python` AST and utilized the `python` parser. This code seemed complex and did not work if the file that is put into the function has syntax errors and will throw an exception. Instead I proposed we use a regular expression which was how comments are already checked in `GatorGrader` and doing
+this would follow a similar interesting implementation.
+
+Although I proposed the use of regular expression, I had no experience with them and decided to learn about them to solve this issue. After learning some symbols and syntax, I struggled with finding and creating an appropriate regex. In my search for using `regex`, I found [Regex101](https://regex101.com/). It breaks down any regex and explains it fully symbol by symbol. My initial regex would simply detect `docstrings` rather than a multi-line `docstring`. I after much research I came up with `r'""".*?\n.*?"""'` which did indeed detect multi-line `docstrings` and used the `re.DOTALL` flag to search for new lines. For more explain of this regex, paste it into [Regex101](https://regex101.com/).
+
+After completing the issue, I had come up with test cases using `parametrize` to follow suit in how
+the other the test cases were done and to check for multiple types of content within the `docstring` that
+may or may not be correct detected. However, I struggled with coming with up with more types of inputs for
+`paramtrize` and asked my teammates to try and improve the input.
+
+Solving this issue helps professors and students keep their code and documentation up to par as well as
+help to pass checks like `pylint` which require the use of `docstrings` in certain parts of the code.
 
 
 
