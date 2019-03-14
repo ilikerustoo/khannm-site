@@ -1,9 +1,9 @@
-+++
-date = "2018-12-01"
-title = "Mechanical Keyboards"
-math = "true"
+---
+date: 2018-12-01
+title: Mechanical Keyboards"
+math: true
 
-+++
+---
 
 My Obsession with Mechanical keyboards
 
