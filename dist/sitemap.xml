@@ -3,32 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khannm.netlify.com/posts/theme-demo/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <loc>https://khannm.netlify.com/posts/gatorgrouper/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khannm.netlify.com/posts/creating-a-new-theme/</loc>
+    <loc>https://khannm.netlify.com/projects/all-projects/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khannm.netlify.com/projects/snake_game/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khannm.netlify.com/posts/mech-keyboard/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khannm.netlify.com/post_template/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khannm.netlify.com/projects/first-project/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khannm.netlify.com/posts/hugo-template-primer/</loc>
+    <loc>https://khannm.netlify.com/post_template/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khannm.netlify.com/posts/hugoisforlovers/</loc>
+    <loc>https://khannm.netlify.com/post_template/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khannm.netlify.com/posts/migrate-from-jekyll/</loc>
+    <loc>https://khannm.netlify.com/post_template/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,19 +93,25 @@
   
   <url>
     <loc>https://khannm.netlify.com/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://khannm.netlify.com/post_template/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://khannm.netlify.com/posts/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://khannm.netlify.com/projects/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

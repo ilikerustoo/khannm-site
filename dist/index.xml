@@ -6,62 +6,77 @@
     <description>Recent content on Mohammad Khan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://khannm.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://khannm.netlify.com/posts/theme-demo/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Gator Grouper - checking for python docstrings</title>
+      <link>https://khannm.netlify.com/posts/gatorgrouper/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://khannm.netlify.com/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>https://khannm.netlify.com/posts/gatorgrouper/</guid>
+      <description>What is GatorGrader? GatorGrouper is a tool that most students in the Computer Science department use to check their work is up to par to make sure their work is of the highest quality. This is an incredibly useful tool as it forces you to practice good coding habits and in turn leads to you no only improving your grade, but also improving as a programmer. As can be seen above, Gator Grouper works with GitHub and Gradle (and more) and contains a checklist of requirements that must be completed in order to pass which is also checked in TravisCI.</description>
+    </item>
+    
+    <item>
+      <title>All Projects</title>
+      <link>https://khannm.netlify.com/projects/all-projects/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://khannm.netlify.com/projects/all-projects/</guid>
+      <description>I will use this section to talk about each project in depth; how I went about things and what I learnt.
+To see all projects, please visit my Github</description>
+    </item>
+    
+    <item>
+      <title>Snake Game</title>
+      <link>https://khannm.netlify.com/projects/snake_game/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://khannm.netlify.com/projects/snake_game/</guid>
+      <description>This project was my final project in my CS480 - Software Innovation class where I was tasked with coming with something to add to my github portfolio. It was a seemly simple project but tricky as it involved using the &amp;ldquo;PyGame&amp;rdquo; library working with GUI.
+You can check out more here</description>
+    </item>
+    
+    <item>
+      <title>Mechanical Keyboards</title>
+      <link>https://khannm.netlify.com/posts/mech-keyboard/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://khannm.netlify.com/posts/mech-keyboard/</guid>
+      <description>My Obsession with Mechanical keyboards
+There are all kinds of cool keyboards. White ones, black ones, funky-looking ones. But the magic behind mechanical keyboards is in the feel.
+Block quotes are  written like so.   They can span multiple paragraphs,  if you like. Some text, and some `code` and then a nice plain [link with title](https://github.com/davidhampgonsalves/davidhampgonsalves.com-hugo &#34;title text!&#34;). and then + Create a list by starting a line with `+`, `-`, or `*` + Sub-lists are made by indenting 2 spaces: - Marker character change forces new list start: * Ac tristique libero volutpat at + Very easy!</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://khannm.netlify.com/posts/creating-a-new-theme/</link>
+      <link>https://khannm.netlify.com/post_template/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://khannm.netlify.com/posts/creating-a-new-theme/</guid>
+      <guid>https://khannm.netlify.com/post_template/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
-      <title>First Project</title>
-      <link>https://khannm.netlify.com/projects/first-project/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://khannm.netlify.com/projects/first-project/</guid>
-      <description>Hello</description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://khannm.netlify.com/posts/hugo-template-primer/</link>
+      <link>https://khannm.netlify.com/post_template/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://khannm.netlify.com/posts/hugo-template-primer/</guid>
+      <guid>https://khannm.netlify.com/post_template/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://khannm.netlify.com/posts/hugoisforlovers/</link>
+      <link>https://khannm.netlify.com/post_template/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://khannm.netlify.com/posts/hugoisforlovers/</guid>
+      <guid>https://khannm.netlify.com/post_template/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -72,10 +87,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://khannm.netlify.com/posts/migrate-from-jekyll/</link>
+      <link>https://khannm.netlify.com/post_template/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://khannm.netlify.com/posts/migrate-from-jekyll/</guid>
+      <guid>https://khannm.netlify.com/post_template/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -87,20 +102,19 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khannm.netlify.com/about/</guid>
-      <description>I am currently in Allegheny College studying Computer Science and Economics
-I have experience in:
- Java Python C MIPS  Follow my work at GitHub.
-Setup Some fun facts about Me:
- I play video games like League of Legends I collect and assemble mechanical keyboards   Thanks for reading!</description>
+      <description>I was born and raised in Pakistan which is where I have most of my working and interning experience - from Transparency International (law firm) to several banks such as UBL or Monet in mobile banking. However, coming to the US and studying at Allegheny College has equipped me with the tools to take up computer science internships that were not available to me in Pakistan.
+I am proficient with Java, Python, C and over the years I have worked with more languages that include: , R, Go, Javascript, and MIPS.</description>
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Contact Me</title>
       <link>https://khannm.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khannm.netlify.com/contact/</guid>
-      <description> </description>
+      <description>I would love to hear from you!
+Please enter your name then email:
+ </description>
     </item>
     
     <item>
