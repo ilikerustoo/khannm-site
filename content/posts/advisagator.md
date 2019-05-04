@@ -47,3 +47,5 @@ return flask.render_template("/students/4yrplan.html")
 If the file was named `4yrplan.xlsx`, then the file would be renamed as `JoeSmith_4yrplan.xlsx`. This would make it easier for a teacher to find a student's file. Upon clicking the `4 year plan` on a teacher login, the teacher would be redirected to a view of a folder containing every student file.
 
 ![student_files_view](/images/student_file_view.png)
+
+If you are interested in this project or would like to extend it further, you could visit this [repository](https://github.com/GatorEducator/advisagator).
