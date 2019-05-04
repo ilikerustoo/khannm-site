@@ -1,6 +1,6 @@
 +++
-date = "2019-05-2"
-title = "Advisagator - Secure your future"
+date = "2019-05-02"
+title = "Advisagator - Secure Your Future"
 math = "true"
 
 +++
