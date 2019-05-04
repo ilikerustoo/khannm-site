@@ -47,6 +47,10 @@
   </url>
   
   <url>
+    <loc>https://khannm.netlify.com/posts/advisagator/</loc>
+  </url>
+  
+  <url>
     <loc>https://khannm.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>

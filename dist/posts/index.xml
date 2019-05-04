@@ -31,5 +31,14 @@ There are all kinds of cool keyboards. White ones, black ones, funky-looking one
 Block quotes are  written like so.   They can span multiple paragraphs,  if you like. Some text, and some `code` and then a nice plain [link with title](https://github.com/davidhampgonsalves/davidhampgonsalves.com-hugo &#34;title text!&#34;). and then + Create a list by starting a line with `+`, `-`, or `*` + Sub-lists are made by indenting 2 spaces: - Marker character change forces new list start: * Ac tristique libero volutpat at + Very easy!</description>
     </item>
     
+    <item>
+      <title>Advisagator - Secure your future</title>
+      <link>https://khannm.netlify.com/posts/advisagator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khannm.netlify.com/posts/advisagator/</guid>
+      <description>What is Advisagator? Advisagator is a tool built by me and other members in the class of &amp;ldquo;481 - Software Innovation II&amp;rdquo;. The class was split up into teams and each group was tasked with a different tool and our tool help students create and upload a four year old plan of the classes that they are required to take to fulfill their major requirements in order to graduate. The four year plans is made by the student and tool simply facilitates communicating and send this information to their adviser.</description>
+    </item>
+    
   </channel>
 </rss>
