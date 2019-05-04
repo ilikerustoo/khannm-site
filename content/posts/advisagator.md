@@ -48,4 +48,4 @@ If the file was named `4yrplan.xlsx`, then the file would be renamed as `JoeSmit
 
 ![student_files_view](/images/student_file_view.png)
 
-If you are interested in this project or would like to extend it further, you could visit this [repository](https://github.com/GatorEducator/advisagator).
+If you are interested in this project or would like to extend it further, you could visit the GitHub Advisagator [repository](https://github.com/GatorEducator/advisagator).
